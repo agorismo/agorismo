@@ -9,7 +9,7 @@ My name is System, I am from Alemnha and I am studying programming, which has be
 - 🌎 From Berlim - Alemanha
 - 🧪 Working for Black Pass
 
-[![Twitter Badge](https://img.shields.io/badge/-@systemfrozen-2ccce9?style=flat-square&labelColor=2ccce9&logo=twitter&logoColor=white&link=https://twitter.com/invisizzzz)](https://twitter.com/invisizzzz/systemfrozen) 
+[![Twitter Badge](https://img.shields.io/badge/-@systemfrozen-2ccce9?style=flat-square&labelColor=2ccce9&logo=twitter&logoColor=white&link=https://twitter.com/invisizzzz)](https://twitter.com/invisizzzz/SystemFrozen) 
 [![Youtube Badge](https://img.shields.io/badge/-Educado-2ccce9?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCFPKix5PCAFJLypRA3WOwDA)](https://www.youtube.com/channel/Educado1943) 
 [![Gmail Badge](https://img.shields.io/badge/-educadofofo@gmail.com-2ccce9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:invisi40a71@gmail.com)](mailto:educadofofo@gmail.com)
 
