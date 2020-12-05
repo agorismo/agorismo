@@ -2,7 +2,7 @@
 
 <img align="right" alt="PNGJPG" src="https://cdn.discordapp.com/attachments/784644417378058340/784875700263190528/albert.png"/>
 
-My name is System, I'm from Alemnha :de: and I'm enginnering soc, that has been working as a developer for Black Pass since 2020. 📝
+My name is System, I am from Alemnha and I am studying programming, which has been working as a social engineer for Black Pass since 2020. 📝
 
 ### "I only know I know nothing." 🧠
 
