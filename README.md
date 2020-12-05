@@ -1,9 +1,5 @@
 #                                                      SYSTEMS FROZEN - *BLACK PASS*
 
-<!--
-**SystemsFrozen/SystemsFrozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/784644417378058340/784858882093744169/tumblr_inline_mt33etYN0W1qj79oe540.gif"/>
 
 My name is System, I'm from Alemnha 🇩🇪 and I'm a programmer, that has been working as a developer for Black Pass since 2020. 📝
@@ -38,3 +34,5 @@ My name is System, I'm from Alemnha 🇩🇪 and I'm a programmer, that has been
 <a href="https://twitch.tv/seshpsyc" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
  
+<!--
+**SystemsFrozen/SystemsFrozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
