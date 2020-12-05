@@ -2,7 +2,7 @@
 
 <img align="right" alt="JPG" src="https://cdn.discordapp.com/attachments/784644417378058340/784871364578377769/Baby_Stephen.jpg"/>
 
-My name is System, I'm from Alemnha :de: and I'm a programmer, that has been working as a developer for Black Pass since 2020. 📝
+My name is System, I'm from Alemnha :de: and I'm enginnering soc, that has been working as a developer for Black Pass since 2020. 📝
 
 ### "I only know I know nothing." 🧠
 
@@ -21,7 +21,7 @@ My name is System, I'm from Alemnha :de: and I'm a programmer, that has been wor
 <img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/784644417378058340/784871138521514027/systemsfrozenreadme.gif" />
 
 
-**I do things by wanting, like I want to kill a mendingo I kill, I want to use a metaaffectin I use, I want to smell powder I smell, I really like fucking 18-year-old girls..**
+**We change the world every day. But to change the world in a meaningful way takes much longer than people have. It never happens at the same time. It's slow. It's methodical. It's exhausting. We don't all have the stomach for it**
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SystemsFrozen)](https://github.com/anuraghazra/github-readme-stats)
