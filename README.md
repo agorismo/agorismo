@@ -14,7 +14,7 @@ My name is System, I'm from Alemnha :de: and I'm a programmer, that has been wor
 [![Gmail Badge](https://img.shields.io/badge/-educadofofo@gmail.com-2ccce9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:invisi40a71@gmail.com)](mailto:educadofofo@gmail.com)
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/hlc86ji4b3bagl03vukkey7nu?si=Vcy6t3naSuOUiQQpKyrvjA)
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/hlc86ji4b3bagl03vukkey7nu)
 
 #
 
