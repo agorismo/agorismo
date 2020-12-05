@@ -18,7 +18,7 @@ My name is System, I'm from Alemnha :de: and I'm a programmer, that has been wor
 
 #
 
-<img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/784644417378058340/784858597262622800/tumblr_o8zc6xGfRV1qkdrkzo1_1280.gif" />
+<img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/784644417378058340/784867490966536192/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f373638343539313833.gif" />
 
 
 **I do things by wanting, like I want to kill a mendingo I kill, I want to use a metaaffectin I use, I want to smell powder I smell, I really like fucking 18-year-old girls..**
