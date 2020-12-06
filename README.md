@@ -1,6 +1,6 @@
 #                                                      SYSTEMS FROZEN - *BLACK PASS*
 
-<img align="right" alt="PNGJPG" src="https://cdn.discordapp.com/attachments/784644417378058340/784875700263190528/albert.png"/>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/784644417378058340/785030740130922506/albert.gif"/>
 
 My name is System, I am from Alemnha and I am studying programming, which has been working as a social engineer for Black Pass since 2020. 📝
 
