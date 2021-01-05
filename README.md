@@ -11,7 +11,6 @@ My name is properize, I am from Alemnha and I am studying programming, which has
 ![](https://komarev.com/ghpvc/?username=properize&color=000000)
 
 [![Twitter Badge](https://img.shields.io/badge/-@properize-2ccce9?style=flat-square&labelColor=2ccce9&logo=twitter&logoColor=white&link=https://twitter.com/properize)](https://twitter.com/properize) 
-[![Gmail Badge](https://img.shields.io/badge/-educadofofo@gmail.com-2ccce9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ag0rism1337@gmail.com)](mailto:ag0rism1337@gmail.com)
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/hlc86ji4b3bagl03vukkey7nu)
