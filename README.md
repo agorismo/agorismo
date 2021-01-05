@@ -8,7 +8,6 @@ My name is properize, I am from Alemnha and I am studying programming, which has
 
 - 🌎 From Berlim - Alemanha
 - 🧪 Working for Casa Blanca
-![](https://komarev.com/ghpvc/?username=properize&color=000000)
 
 [![Twitter Badge](https://img.shields.io/badge/-@properize-2ccce9?style=flat-square&labelColor=2ccce9&logo=twitter&logoColor=white&link=https://twitter.com/properize)](https://twitter.com/properize) 
 
