@@ -4,8 +4,8 @@
 
 ```
 - 📝 My name is properize, 
-I am from Alemnha and I am studying programming, 
-which has been working as a pentester for Cyber Illusion 2021 and Casa Blanca since 2020. 
+- I am from Alemnha and I am studying programming, which has been working 
+- as a pentester for Cyber Illusion 2021 and Casa Blanca since 2020. 
 - 🌎 From Berlim - Alemanha
 - 🧠 Working for Cyber Illusion & Casa Blanca.
 - 🧪 Joined Cyber Illusion 2021.
