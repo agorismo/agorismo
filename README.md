@@ -7,6 +7,15 @@
 - 🌎 From Berlim - Alemanha
 - 🧠 Working for Cyber Illusion & Casa Blanca.
 - 🧪 Joined Cyber Illusion 2021.
+
+```diff
+- 📝 I work for pentest for Cyber Illusion and Casa Blanca.
++ 🌎 Alemanha - Berlim!
+! 🧠 Working for Cyber Illusion & Casa Blanca.
+# 🧪 Joined Cyber Illusion 2021.
+@@ Agorism in the system @@
+```
+
 ```
 [![Twitter Badge](https://img.shields.io/badge/-@properize-2ccce9?style=flat-square&labelColor=2ccce9&logo=twitter&logoColor=white&link=https://twitter.com/properize)](https://twitter.com/properize) 
 <!--
