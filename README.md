@@ -2,7 +2,7 @@
 
 ```diff
 - 📝 I work for pentest for Cyber Illusion and Casa Blanca.
-+ 🌎 Alemanha - Berlim!
++ 🌎 Brazil!
 ! 🧠 Working for Cyber Illusion & Casa Blanca.
 # 🧪 Joined Cyber Illusion 2021.
 @@ Agorism in the system @@
