@@ -1,7 +1,5 @@
 #                                                     ☆ Known as Agorism
 
-<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/782665455587557417/797153231360491550/57b73e4287a17d2dbddedf5de9ae40b5.png?width=240&height=240"/>
-
 ```diff
 - 📝 I work for pentest for Cyber Illusion and Casa Blanca.
 + 🌎 Alemanha - Berlim!
@@ -9,7 +7,6 @@
 # 🧪 Joined Cyber Illusion 2021.
 @@ Agorism in the system @@
 ```
-
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/782665455587557417/801790274112061440/CyberIllusion.png?width=950&height=204"/>
 
 [![Twitter Badge](https://img.shields.io/badge/-@properize-2ccce9?style=flat-square&labelColor=2ccce9&logo=twitter&logoColor=white&link=https://twitter.com/properize)](https://twitter.com/properize) 
