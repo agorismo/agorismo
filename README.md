@@ -1,9 +1,9 @@
 #                                                     ☆ Known as Agorism
 
 ```diff
-- 📝 I work for pentest for Cyber Illusion and Casa Blanca.
+- 📝 I work for pentest for Cyber Illusion.
 + 🌎 Brazil!
-! 🧠 Working for Cyber Illusion & Casa Blanca.
+! 🧠 Working for Cyber Illusion.
 # 🧪 Joined Cyber Illusion 2021.
 @@ Agorism in the system @@
 ```
