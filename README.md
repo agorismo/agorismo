@@ -1,4 +1,4 @@
-#                                                     ☆ Known as Agorism
+#                                                     ☆ known as Agorism
 
 ```diff
 🧪 Cyber Illusion 2021.
